@@ -1,3 +1,36 @@
+<h3 align="center">
+  👋🏻 <em>Hi there, I'm pkdriller (mejja)!</em> 👾
+</h3>
+
+<p align="center">
+  I'm a passionate coder with strong skills in:
+  <br/>
+  <img src="https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-90%25-green?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+<p align="center">
+  I love learning new things and building awesome projects! 🚀✨
+</p>
+
+<!-- Background Style GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30"/>
+</p>
+
+<h3 align="center">
+  👋🏻 <em>Welcome to my Profile</em> 👾
+</h3>
+
+<!-- Anime! -->
+<p align="center">
+  <img src="https://files.catbox.moe/m36ool.gif" width="350px" />
+</p>
+
+---
+ 
+ 
  <p/>
 
 <p align='center'>
