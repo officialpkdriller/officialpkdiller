@@ -48,7 +48,7 @@
 <div align="center">
   
   <br>
-  <a href="https://github.com/officialpkdriller/NEXUS-AI"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api?username=officialpkdiller&show_icons=true&locale=en&title_color=00FF2B&text_color=00FF2B&icon_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark" alt="officialpkdriller" width=460 /></a>
+  <a href="https://github.com/officialpkdriller/NEXUS-AI"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api?username=officialpkdriller&show_icons=true&locale=en&title_color=00FF2B&text_color=00FF2B&icon_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark" alt="officialpkdriller" width=460 /></a>
   <br>
   <a href="https://github.com/officialpkdriller/PK-XMD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=officialpkdriller&&border=00FF2B&stroke=00FF2B&ring=00FF2B&fire=00FF2B&currStreakNum=00FF2B&sideNums=00FF2B&currStreakLabel=00FF2B&sideLabels=00FF2B&dates=00FF2B&theme=chartreuse-dark" alt="officialpkdriller" width=460 /></a>
 </div>
