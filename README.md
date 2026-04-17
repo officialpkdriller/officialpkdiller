@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-[![pkdriller GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=novaxmd&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/officialpkdriller/NEXUS-AI)
+[![pkdriller GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=officialpkdriller&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/officialpkdriller/NEXUS-AI)
 
 [![officialpkdriller GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=officialpkdriller&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/officialpkdriller/PK-XMD)
 
